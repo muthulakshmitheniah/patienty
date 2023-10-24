@@ -33,10 +33,9 @@ This is a web application that allows users to book appointments with doctors, c
 
 ## Usage
 
-1. Register a new account on the web application.
-2. Book an appointment with your preferred doctor.
-3. Chat with chatbots to get assistance or information.
-4. Send a contact request to the doctor if needed.
+1. Book an appointment with your preferred doctor.
+2. Chat with chatbots to get assistance or information.
+3. Send a contact request to the doctor if needed.
 
 
 
